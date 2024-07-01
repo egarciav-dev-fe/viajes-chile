@@ -15,6 +15,7 @@ body {
 
 hr {
     color: gray;
+    margin-top: 1;
 }
 
 .carousel-inner img {
@@ -23,6 +24,6 @@ hr {
     object-fit: cover;
 }
 
-.card-body {
+.card-body , .btn , footer a {
     color: #FFFFFF;
 }
