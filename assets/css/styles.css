@@ -1,0 +1,18 @@
+
+
+body {
+    background-color: #000000;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+.title-section {
+    text-align: center;
+}
+
+hr {
+    color: gray;
+}
