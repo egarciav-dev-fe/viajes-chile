@@ -16,3 +16,13 @@ body {
 hr {
     color: gray;
 }
+
+.carousel-inner img {
+    width: 100%;
+    height: 75vh;
+    object-fit: cover;
+}
+
+.card-body {
+    color: #FFFFFF;
+}
